@@ -1,0 +1,6 @@
+Topic 2: User Input and Basic Control Structures
+Explanation:
+In C++, you can take user input using cin and use basic control structures like if and else for decision-making.
+
+Challenge:
+Write a C++ program that takes an integer as input from the user and checks if it's even or odd. If it's even, print "Even," and if it's odd, print "Odd."

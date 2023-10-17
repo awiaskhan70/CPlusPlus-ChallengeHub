@@ -1,0 +1,9 @@
+Topic 3: Loops (for and while)
+Explanation:
+In C++, loops are used to repeatedly execute a block of code. Two common types of loops are the for loop and the while loop.
+
+Challenge 1:
+Write a C++ program that uses a for loop to print the numbers from 1 to 10.
+
+Challenge 2:
+Write a C++ program that uses a while loop to find the sum of all even numbers from 1 to 100.

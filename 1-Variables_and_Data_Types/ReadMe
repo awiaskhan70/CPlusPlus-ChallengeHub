@@ -1,0 +1,7 @@
+Topic 1: Variables and Data Types
+Explanation:
+In C++, variables are used to store data. C++ has several built-in data types to represent different kinds of values. 
+Common data types include int for integers, double for floating-point numbers, char for characters, and bool for Boolean values.
+
+Challenge:
+Write a C++ program that declares and initializes variables of different data types (e.g., int, double, char, bool) and prints their values.

@@ -1,0 +1,14 @@
+#include <iostream>
+int main(){
+
+int inputVariable;
+std::cout <<"Enter the value:  ";
+std::cin>>inputVariable;
+if(inputVariable%2 == 0)
+{
+    std::cout<<"Input is Even"<<std::endl;
+}
+else
+std::cout<<"Input is odd"<<std::endl;
+return 0;
+}
