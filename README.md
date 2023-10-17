@@ -28,7 +28,7 @@ Your thoughts are invaluable. If there's a question on your mind, a suggestion b
 
 ## License
 
-Embracing the open-source spirit, everything here is under the [MIT License](LICENSE).
+Embracing the open-source spirit, everything here is under the [MIT License](https://github.com/awiaskhan70/CPlusPlus-ChallengeHub/blob/main/LICENSE).
 
 I genuinely hope this repository aids your C++ adventure. Can't wait to see your contributions and hear your thoughts.
 
